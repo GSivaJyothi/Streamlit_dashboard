@@ -67,33 +67,4 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
 }
 
-/* Weather box styling */
-.weather-box {
-    background-color: #f0f8ff;  /* Light blue background for weather box */
-    padding: 20px;
-    border-radius: 5px;
-    margin-top: 20px;
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    width: 100%;
-}
 
-.weather-day {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px;
-    margin: 10px;  /* Adjust margin between weather items */
-    text-align: center;
-}
-
-.weather-icon {
-    font-size: 2em;
-    margin-bottom: 5px;
-}
-
-.weather-info p {
-    margin: 0;
-    text-align: center;
-}
